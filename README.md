@@ -133,3 +133,8 @@ layout: about
 ## Star 趋势
 
 [![Stargazers over time](https://starchart.cc/fluid-dev/hexo-theme-fluid.svg)](https://starchart.cc/fluid-dev/hexo-theme-fluid)
+
+
+利用Netlify+Gitlab快速构建一个带CMS的Hexo Fluid主题静态博客
+
+https://takagi.icu/2023/02/03/li-yong-netlify-gitlab-kuai-su-gou-jian-yi-ge-dai-cms-de-hexo-fluid-zhu-ti-jing-tai-bo-ke/
